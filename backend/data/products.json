@@ -1,0 +1,858 @@
+[
+    {
+        "name" : "RGB 200ML Coke(mwala)",
+        "price" : "390.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 3.5,
+        "images" : [{
+            "public_id" : "products/200ml/200mlCoke_prygdv",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207552/products/200ml/200mlCoke_prygdv.jpg"
+        }],
+        "category" : "RGB 200ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 130,
+        "numOfReviews" : 32,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 200ML Fanta Orange(mwala)",
+        "price" : "390.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/200ml/200mlOrange_psb8pq",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207553/products/200ml/200mlOrange_psb8pq.jpg"
+        }],
+        "category" : "RGB 200ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 200ML Sprite(mwala)",
+        "price" : "390.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/200ml/200mlSprite_gihonn",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207554/products/200ml/200mlSprite_gihonn.png"
+        }],
+        "category" : "RGB 200ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Coke",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlCoke_zy8ln1",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207649/products/300ml/300mlCoke_zy8ln1.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Fanta Orange",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlOrange_fb9d1b",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207649/products/300ml/300mlOrange_fb9d1b.png"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Fanta Black Currant",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlCurrant_ixzxqo",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207647/products/300ml/300mlCurrant_ixzxqo.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Fanta PineApple",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlPineaple_blsq7r",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207649/products/300ml/300mlPineaple_blsq7r.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Sprite",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlSprite_nrmzek",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207650/products/300ml/300mlSprite_nrmzek.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Novida",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlNovida_yfnu3h",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207648/products/300ml/300mlNovida_yfnu3h.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Soda Water",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlSodawater_iqsysz",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207649/products/300ml/300mlSodawater_iqsysz.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Krest",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlKrest_fsudb7",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207648/products/300ml/300mlKrest_fsudb7.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 300ML Stoney",
+        "price" : "680.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/300ml/300mlStoney_ckb67y",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207649/products/300ml/300mlStoney_ckb67y.jpg"
+        }],
+        "category" : "RGB 300ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 500ML Coke",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlCoke_gdkptb",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207727/products/500ml/500mlCoke_gdkptb.jpg"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 500ML Fanta Orange",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlOrange_j0ryvs",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207728/products/500ml/500mlOrange_j0ryvs.png"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 500ML Fanta Black Currant",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlCurrant_i4yo4n",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207727/products/500ml/500mlCurrant_i4yo4n.jpg"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 500ML Fanta PineApple",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlPineaple_lrub6u",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207727/products/500ml/500mlPineaple_lrub6u.jpg"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    }, 
+    {
+        "name" : "RGB 500ML Sprite",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlSprite_lq9seq",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207727/products/500ml/500mlSprite_lq9seq.jpg"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 500ML Krest",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlKrest_hcth6z",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207727/products/500ml/500mlKrest_hcth6z.jpg"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 500ML Stoney",
+        "price" : "1015.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml/500mlStoney_afja3u",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207726/products/500ml/500mlStoney_afja3u.jpg"
+        }],
+        "category" : "RGB 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 1000ML Coke",
+        "price" : "850.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1000ml/1000mlCoke_b2cpgz",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207761/products/1000ml/1000mlCoke_b2cpgz.jpg"
+        }],
+        "category" : "RGB 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 1000ML Fanta Orange",
+        "price" : "850.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1000ml/1000mlOrange_dnzpbb",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207760/products/1000ml/1000mlOrange_dnzpbb.jpg"
+        }],
+        "category" : "RGB 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 1000ML Fanta Black Currant",
+        "price" : "850.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1000ml/1000mlCurrant_okma74",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207760/products/1000ml/1000mlCurrant_okma74.jpg"
+        }],
+        "category" : "RGB 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 1000ML Fanta PineApple",
+        "price" : "850.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1000ml/1000mlPineaple_pexibo",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650210980/products/1000ml/1000mlPineaple_pexibo.jpg"
+        }],
+        "category" : "RGB 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "RGB 1000ML Sprite",
+        "price" : "850.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1000ml/1000mlSprite_xt1k68",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207762/products/1000ml/1000mlSprite_xt1k68.png"
+        }],
+        "category" : "RGB 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 350ML Coke",
+        "price" : "407.50",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/350ml/350ml-coke_qgusmd",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207689/products/350ml/350ml-coke_qgusmd.jpg"
+        }],
+        "category" : "PET 350ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 350ML Fanta Orange",
+        "price" : "407.50",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/350ml/350ml-orange_mq7ycq",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207690/products/350ml/350ml-orange_mq7ycq.jpg"
+        }],
+        "category" : "PET 350ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 350ML Fanta Black Currant",
+        "price" : "407.50",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/350ml/350ml-currant_lyhhvs",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207690/products/350ml/350ml-currant_lyhhvs.gif"
+        }],
+        "category" : "PET 350ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 350ML Sprite",
+        "price" : "407.50",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/350ml/350ml-sprite_ukq1gj",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207689/products/350ml/350ml-sprite_ukq1gj.jpg"
+        }],
+        "category" : "PET 350ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Coke",
+        "price" : "640.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500mlCoke_vey1ly",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207742/products/500ml-pet/500mlCoke_vey1ly.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Fanta Orange",
+        "price" : "640.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500mlOrange_v7j60v",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207742/products/500ml-pet/500mlOrange_v7j60v.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Fanta Black Currant",
+        "price" : "640.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500mlCurrant_o3hpdy",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207741/products/500ml-pet/500mlCurrant_o3hpdy.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Fanta PineApple",
+        "price" : "640.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500mlPineapple_gimdge",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207743/products/500ml-pet/500mlPineapple_gimdge.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Sprite",
+        "price" : "640.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500mlSprite_madmkr",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207742/products/500ml-pet/500mlSprite_madmkr.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Dasani",
+        "price" : "280.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500Dasani_mquybz",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650214936/products/500ml-pet/500Dasani_mquybz.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 500ML Keringet Mineral Water(24pack)",
+        "price" : "1070.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/500ml-pet/500mlKeringet_svpeim",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650214695/products/500ml-pet/500mlKeringet_svpeim.jpg"
+        }],
+        "category" : "PET 500ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1250ML Coke",
+        "price" : "1200.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1250ml/1250mlCoke_xpawtd",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207778/products/1250ml/1250mlCoke_xpawtd.jpg"
+        }],
+        "category" : "PET 1250ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1250ML Fanta Orange",
+        "price" : "1200.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1250ml/1250mlCoke_xpawtd",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207778/products/1250ml/1250mlCoke_xpawtd.jpg"
+        }],
+        "category" : "PET 1250ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1250ML Fanta Black Currant",
+        "price" : "1200.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1250ml/1250mlCurrant_wd8nri",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207778/products/1250ml/1250mlCurrant_wd8nri.jpg"
+        }],
+        "category" : "PET 1250ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1250ML Sprite",
+        "price" : "1200.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 2.5,
+        "images" : [{
+            "public_id" : "products/1250ml/1250mlSprite_nzdmzy",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207778/products/1250ml/1250mlSprite_nzdmzy.jpg"
+        }],
+        "category" : "PET 1250ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 2000ML Coke",
+        "price" : "950.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/2000ml/2000mlCoke_b3ijum",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207784/products/2000ml/2000mlCoke_b3ijum.jpg"
+        }],
+        "category" : "PET 2000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 2000ML Fanta Orange",
+        "price" : "950.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/2000ml/2000mlOrange_ksvquq",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207784/products/2000ml/2000mlOrange_ksvquq.jpg"
+        }],
+        "category" : "PET 2000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 2000ML Fanta Black Currant",
+        "price" : "950.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/2000ml/2000mlBlackcurrant_sey2tf",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650212749/products/2000ml/2000mlBlackcurrant_sey2tf.jpg"
+        }],
+        "category" : "PET 2000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 2000ML Fanta Passion",
+        "price" : "950.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/2000ml/2000mlPassion_yttyjx",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207785/products/2000ml/2000mlPassion_yttyjx.jpg"
+        }],
+        "category" : "PET 2000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 2000ML Fanta PineApple",
+        "price" : "950.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/2000ml/2000mlPineapple_phtuox",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650213334/products/2000ml/2000mlPineapple_phtuox.gif"
+        }],
+        "category" : "PET 2000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 2000ML Sprite",
+        "price" : "950.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/2000ml/2000mlSprite_liezlh",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207784/products/2000ml/2000mlSprite_liezlh.jpg"
+        }],
+        "category" : "PET 2000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1000ML Minute Maid Apple",
+        "price" : "1310.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/1000ml-pet/1000mlApple_vfi2wh",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207769/products/1000ml-pet/1000mlApple_vfi2wh.jpg"
+        }],
+        "category" : "PET 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1000ML Minute Maid Pulpy Orange",
+        "price" : "1510.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/1000ml-pet/1000mlOrange_zpzdig",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207769/products/1000ml-pet/1000mlOrange_zpzdig.jpg"
+        }],
+        "category" : "PET 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1000ML Minute Maid Tropical",
+        "price" : "1310.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/1000ml-pet/1000mlTropical_dpl20r",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207769/products/1000ml-pet/1000mlTropical_dpl20r.jpg"
+        }],
+        "category" : "PET 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1000ML Minute Maid Mango",
+        "price" : "1310.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/1000ml-pet/1000mlMango_rmnhxa",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207769/products/1000ml-pet/1000mlMango_rmnhxa.jpg"
+        }],
+        "category" : "PET 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1000ML Dasani",
+        "price" : "586.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/1000ml-pet/1000mlDasani_pmsdbd",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650214741/products/1000ml-pet/1000mlDasani_pmsdbd.jpg"
+        }],
+        "category" : "PET 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 1000ML Keringet Mineral Water",
+        "price" : "895.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/1000ml-pet/1000mlKeringet_ruypvs",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650214720/products/1000ml-pet/1000mlKeringet_ruypvs.jpg"
+        }],
+        "category" : "PET 1000ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 400ML Minute Maid Apple",
+        "price" : "710.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/400ml/400mlApple_wo2fo1",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207704/products/400ml/400mlApple_wo2fo1.jpg"
+        }],
+        "category" : "PET 400ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 400ML Minute Maid Pulpy Orange",
+        "price" : "810.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/400ml/400mlOrange_pnxt2z",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207704/products/400ml/400mlOrange_pnxt2z.jpg"
+        }],
+        "category" : "PET 400ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 400ML Minute Maid Tropical",
+        "price" : "710.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/400ml/400mlTropical_ysp628",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207703/products/400ml/400mlTropical_ysp628.jpg"
+        }],
+        "category" : "PET 400ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 400ML Minute Maid Mango",
+        "price" : "710.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/400ml/400mlMango_y4sbou",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650207703/products/400ml/400mlMango_y4sbou.jpg"
+        }],
+        "category" : "PET 400ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 400ML Predator Energy Drink",
+        "price" : "505.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/400ml/400mlPredator_vpqluu",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650215935/products/400ml/400mlPredator_vpqluu.jpg"
+        }],
+        "category" : "PET 400ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    },
+    {
+        "name" : "PET 400ML PowerPlay Energy Drink",
+        "price" : "600.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "ratings" : 4.5,
+        "images" : [{
+            "public_id" : "products/400ml/400mlPowerplay_ypsgf2",
+            "url" : "https://res.cloudinary.com/kaycom/image/upload/v1650216014/products/400ml/400mlPowerplay_ypsgf2.jpg"
+        }],
+        "category" : "PET 400ML",
+        "seller" : "Coastal Bottlers LTD",
+        "stock" : 65,
+        "numOfReviews" : 23,
+        "reviews": []
+    }
+
+]
