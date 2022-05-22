@@ -64,7 +64,7 @@ const Home = ({ match }) => {
         <Fragment>
             {loading ? <Loader /> : (
                 <Fragment>
-                    <MetaData title={'Buy Best Products Online'} />
+                    <MetaData title={'One stop for all your beverage needs'} />
 
                     <h1 id="products_heading">CBL Products</h1>
 
@@ -77,8 +77,8 @@ const Home = ({ match }) => {
                                         <div className="px-5">
                                             <Range
                                                 marks={{
-                                                    1: `$1`,
-                                                    2000: `$2000`
+                                                    1: `ksh1`,
+                                                    2000: `ksh2000`
                                                 }}
                                                 min={1}
                                                 max={2000}
